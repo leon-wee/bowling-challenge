@@ -1,3 +1,5 @@
+// responsibility is to bring together the rolls and the scores and total it up correctly
+
 var Bowling = function Bowling() {
   this.firstRollScore = 0
   this.secondRollScore = 0
